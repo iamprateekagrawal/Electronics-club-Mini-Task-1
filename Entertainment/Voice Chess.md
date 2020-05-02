@@ -22,6 +22,6 @@ In this project, we need to make a voice commanded chess board which would espec
 
 **Short guide:** We choose wood of appropriate dimension and then install x-axix and y-axis motors with pulleys and belts attached to it. We prepare the batteries and connected the magnet and the electromagnet. Simply connect according to the circuits and programme the codes. Now, stowage the components.
 
-![Demo](https://media.giphy.com/media/lQCFDWxOD3TOshxrTk/giphy.gif)
+![Demo](https://media.giphy.com/media/lQCFDWxOD3TOshxrTk/giphy-downsized.gif)
 
 **Additional Comments:** Both mechanical+electrical works required to build it - the motors, magnets and the pulley-belt system all work simultaneously. Alongside, mathematical algorithms were defined to build up a working programme code model. Efficieny of the model can be increased by having 'confirm' option for user-instruction and producing detailed game results with skill rating of each player at the end which shall require more components and coding applications.
