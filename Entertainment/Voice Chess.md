@@ -24,4 +24,6 @@ In this project, we need to make a voice commanded chess board which would espec
 
 ![Demo](https://media.giphy.com/media/lQCFDWxOD3TOshxrTk/giphy-downsized.gif)
 
+Full Story with codes and detailed setup: [Voice chess](https://www.instructables.com/id/Voice-chess-a-Chess-Board-With-Voice-Commands-1/)
+
 **Additional Comments:** Both mechanical+electrical works required to build it - the motors, magnets and the pulley-belt system all work simultaneously. Alongside, mathematical algorithms were defined to build up a working programme code model. Efficieny of the model can be increased by having 'confirm' option for user-instruction and producing detailed game results with skill rating of each player at the end which shall require more components and coding applications.
