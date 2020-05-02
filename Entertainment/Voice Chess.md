@@ -3,7 +3,7 @@ In this project, we need to make a voice commanded chess board which would espec
 
 **Components Used:** 
 1. Android phone
-2. L298N Driver modules
+2. [L298N](http://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) Driver modules
 3. Arduino Mega
 4. Bluetooth module for arduino 
 5. Relay switch
