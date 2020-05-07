@@ -23,6 +23,8 @@ This project involves autopilot configuration for sailing boats, especially for 
 * Buzzer and LED act as guide for emergency (low voltage/high temp) or process (autopilot/control) indication.
 * The sketch uses around 65% of program and around 45% of memory.
 
+![Circuit Design](https://hackster.imgix.net/uploads/attachments/1097547/autopilot-3_bb_a02bJVryzk.png?auto=compress%2Cformat&w=740&h=555&fit=max)
+
 **Full Story** with greater details and schematics can be found here: [Autopilot Sailing Boat](https://www.hackster.io/zoncatan/autopilot-for-sailing-boats-automatic-steering-system-b880bd)
 
 **Additional Comments:**  Present model gives an overall outlook for an automation. The project can be extended to other parameter/research purposes like water depth/composition/temperature/velocity detection at different locations for any water body.
