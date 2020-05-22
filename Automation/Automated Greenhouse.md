@@ -2,10 +2,10 @@
 This project involves automatic greenhouse which allows features like soil humidity sensors, pump for watering, air temperature & luminosity sensing, automatic ventilation, time-lapse function, internet control, etc. Basically, it is collecting data coming from sensors then use some actuators to autonomously act on the plants environment.
 
 **Components used:**
-* NodeMCUv3 (microcontroller)
+* [NodeMCUv3](https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/) (microcontroller)
 * Arduino IDE
-* DHT-11 (humidity & temperature sensor)
-* YL-38 & YL-69 (soil moisture sensor)
+* [DHT-11](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf) (humidity & temperature sensor)
+* [YL-38 & YL-69](https://medium.com/@chirag.parmar/know-your-sensor-yl38-soil-hygrometer-fceca860faac) (soil moisture sensor)
 * [LM7805C](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
 * LDR (light intensity sensor)
 * Solid state relay modules 
