@@ -28,6 +28,7 @@ Get directly to any project by clicking the respective link below!
 
 **5. Utility Devices**
   * [Heart Visualiser](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Utility%20Devices/Heart%20Visualiser.md)
+  * [Swim Tracker](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Utility%20Devices/Swim%20Tracker.md)
   * [Ultimate Binary Watch](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Utility%20Devices/The%20Ultimate%20Binary%20Watch.md)
   * [Vending Machine Device](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Utility%20Devices/Vending%20Machine%20Device.md)
   * [Wireless Power Bank](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Utility%20Devices/Wireless%20Power%20Bank.md)
