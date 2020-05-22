@@ -6,8 +6,8 @@ In this project, we see a firefighting robot that chases a flame and extinguishe
 2. Flame Sensor
 3. Small DC motor
 4. Small Propeller
-5. L298N H-bridge motor driver
-6. PCA9685 12-bit 16-channel PWM driver
+5. [L298N](https://www.alldatasheet.com/datasheet-pdf/pdf/22440/STMICROELECTRONICS/L298N.html) H-bridge motor driver
+6. [PCA9685](https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf) 12-bit 16-channel PWM driver
 7. 2WD robot chassis kit
 8. Other common materials/tools
 
