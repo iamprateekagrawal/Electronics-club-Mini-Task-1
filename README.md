@@ -36,5 +36,5 @@ Get directly to any project by clicking the respective link below!
   * [Images from Weather Satellites](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Other%20Interesting%20Projects/Images%20from%20Weather%20Satellites.md)
   * [SSTV](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Other%20Interesting%20Projects/SSTV.md)
   * [Tesla Coils](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Other%20Interesting%20Projects/Tesla%20Coils.md)
-  * [Long-Distance-Transmission-Circuit](https://github.com/prateekagrawalgithub/Long-Distance-Transmission-Circuit.git)
-  * [Text-File-from-SD-card](https://github.com/prateekagrawalgithub/Text-File-from-SD-card.git)
+  * [Long-Distance-Transmission-Circuit](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Other%20Interesting%20Projects/Long%20Distance%20Transmission%20Circuit.md)
+  * [Text-File-from-SD-card](https://github.com/prateekagrawalgithub/Electronics-club-Mini-Task-1/blob/master/Other%20Interesting%20Projects/Text%20File%20from%20SD%20Card.md)
